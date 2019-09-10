@@ -1,0 +1,2 @@
+# JapaneaseWord
+New Word / Kanji
