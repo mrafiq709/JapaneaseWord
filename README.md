@@ -11,3 +11,5 @@ New Word / Kanji
     変更（へんこう）　⇒　Change
 
     依頼（いらい）　⇒　Request
+    
+    上書きしる（うわがきする）⇒　Overwrite
