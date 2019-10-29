@@ -11,3 +11,5 @@ New Word / Kanji
     依頼（いらい）　⇒　Request
     
     上書きしる（うわがきする）⇒　Overwrite
+    
+    ざっくり　=>　roughly
