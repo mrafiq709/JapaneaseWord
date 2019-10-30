@@ -13,3 +13,5 @@ New Word / Kanji
     上書きしる（うわがきする）⇒　Overwrite
     
     ざっくり　=>　roughly
+    
+    有効に (ゆうこうに)　=>　enable
