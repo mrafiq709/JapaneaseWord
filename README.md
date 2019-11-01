@@ -15,3 +15,5 @@ New Word / Kanji
     ざっくり　=>　roughly
     
     有効に (ゆうこうに)　=>　enable
+    
+    実施中 (じっしちゅ)　=>　ongoing
